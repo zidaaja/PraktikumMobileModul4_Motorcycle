@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sepeda Motor</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Sepeda Motor</string>
+    <string name="nav_header_subtitle">Semua Tentang Sepeda Motor</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Ubah Bahasa</string>
+    <string name="indonesia">Indonesia</string>
+    <string name="english">English Language</string>
+
+    <string name="menu_home">Beranda</string>
+
+    <!--    gallery-->
+    <string name="menu_gallery">Galeri</string>
+    <string name="merk1">Yamaha MX King</string>
+    <string name="merk2">Vespa Sprint</string>
+    <string name="merk3">Honda Genio</string>
+    <string name="merk4">Honda CBR150R</string>
+    <string name="merk5">Honda Beat Street</string>
+    <string name="merk6">Yamaha XSR 155</string>
+    <string name="merk7">Honda ADV 150</string>
+    <string name="merk8">Honda CBR250RR</string>
+    <string name="desc1">Rp 25,18 - Rp 25,58 Juta</string>
+    <string name="desc2">Rp 50,7 - Rp 53,2 Juta</string>
+    <string name="desc3">Rp 18,53 - Rp 19,12 Juta</string>
+    <string name="desc4">Rp 36,74 - Rp 41,73 Juta</string>
+    <string name="desc5">Rp 17,93 Juta</string>
+    <string name="desc6">Rp 37,24 Juta</string>
+    <string name="desc7">Rp 35,69 - Rp 38,83 Juta</string>
+    <string name="desc8">Rp 62,33 - Rp 73,53 Juta</string>
+
+    <string name="menu_accessories">Aksesoris</string>
+
+    <!--    gallery-->
+    <string name="menu_type">Jenis</string>
+    <string name="jenis1">Sportbike</string>
+    <string name="jenis2">Standart/Naked-bike</string>
+    <string name="jenis3">Dual-sport</string>
+    <string name="jenis4">Cruiser</string>
+    <string name="jenis5">Touring</string>
+    <string name="jenis6">Retro</string>
+    <string name="jenis7">Skuter</string>
+    <string name="detail1">Sportbike adalah tipe motor yang difokuskan untuk menghasilkan performa bagus, kecepatan tinggi, kemampuan menikung tajam, dan pengereman yang pakem.</string>
+    <string name="detail2">Hampir sama dengan sportbike, tapi dengan kenyamanan posisi berkendara yang lebih baik dan fungsinya yang serba guna. </string>
+    <string name="detail3">Bisa di jalan aspal, bisa di medan lumpur, oleh sebab itu motor ini disebut tipe dual-sport. Motor ini sama baiknya jika digunakan melintas di jalan raya mau pun di jalan-jalan pinggir pedesaan.</string>
+    <string name="detail4">Tipe motor ini punya posisi berkendara agak membungkuk dengan pijakan kaki lebih maju dan posisi tangan lurus ke depan. Motor cruiser biasanya menghasilkan tenaga besar dan mudah dikendarai.</string>
+    <string name="detail5">Motor touring dibuat untuk perjalanan jarak jauh, dilengkapi dengan pelindung cuaca, bagasi tahan air, dan keunggulan lain seperti kemudi ringan, stereo, dan boncengan nyaman.</string>
+    <string name="detail6">Motor ini memiliki gaya retro atau klasik</string>
+    <string name="detail7"> Sering digunakan di kota atau pun di desa, termasuk jenis motor yang serbaguna.</string>
+
+    <string name="title_activity_main2">MainActivity2</string>
+
+    <string name="menu_transform">Transform</string>
+    <string name="menu_reflow">Reflow</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_settings">Settings</string>
+
+    <string name="lorem_ipsum_title">Lorem Ipsum"</string>
+    <string name="lorem_ipsum">Lorem Ipsum is simply placeholder text of the printing and
+        typesetting industry. Lorem Ipsum has been the industry\'s standard placeholder text ever
+        since the 1500s, when an unknown printer took a galley of type and scrambled it to make a
+        type specimen book"
+    </string>
+    <string name="fab_content_description">Represents a view to invoke an action</string>
+    <string name="image_view_item_transform_content_description">Represents an image view in the
+        item
+    </string>
+</resources>
